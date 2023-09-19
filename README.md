@@ -2,7 +2,7 @@
 <img align = "right" width = "400" src = "https://media.tenor.com/gJhp8-yFIYkAAAAM/mona.gif">
 - 🔭 I’m currently working on **Your mom**
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **on how to pleasure your mom**
 
 - 👯 I’m looking to collaborate on **Your mom**
 
