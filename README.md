@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm SayaPutih</h1>
 - 🔭 I’m currently working on **Making A Functional School Website**
 
-- 🌱 I’m currently learning **Full Stact Developement**
+- 🌱 I’m currently learning **Full Stack Developement**
 
 
 <p align="left">
