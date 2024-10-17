@@ -1,23 +1,23 @@
 <h1 align="center">Hi 👋, I'm SayaPutih</h1>
 <h3 align="center">4th Semester College student</h3>
 
-- 🔭 I’m currently working on [project name](project link)
+- 🔭 I’m currently working on your mom(your mom.com)
 
-- 🌱 I’m currently learning **Frameworks, courses ,etc.**
+- 🌱 I’m currently learning **your mom**
 
-- 👯 I’m looking to collaborate on [project name](project link)
+- 👯 I’m looking to collaborate on [your mom](project link)
 
-- 🤝 I’m looking for help with [project name](project link)
+- 🤝 I’m looking for help with [your mom](project link)
 
-- 👨‍💻 All of my projects are available at [portofolio link](portofolio link)
+- 👨‍💻 All of my projects are available at [your mom](portofolio link)
 
-- 📝 I regularly write articles on [blog link](blog link)
+- 📝 I regularly write articles on [your mom](blog link)
 
-- 💬 Ask me something **react, vue and gsap**
+- 💬 Ask me something *your mom*
 
-- 📫 How to reach me **example@gmail.com**
+- 📫 How to reach me **your mom@gmail.com**
 
-- 📄 Know about my experiences [resume link](resume link)
+- 📄 Know about my experiences [your mom](resume link)
 
 - ⚡ Fun fact **I think I am funny**
 
