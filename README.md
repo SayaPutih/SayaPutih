@@ -4,10 +4,8 @@
 ---
 
 ### 🛠 About Me
-- 🔭 I’m currently working on **Gym-Website**  
-- 🌱 I’m currently learning **POST and GET**  
-- 👯 I’m looking to collaborate on **Full Stack Development Projects**  
-- 🤝 I’m looking for help with **Internship Opportunities**  
+- 🔭 I’m currently working on **Mobile Application**  
+- 🌱 I’m currently learning **Mobile Application**  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SayaPutih)  
 - 📫 How to reach me: **nikolaibenevander@gmail.com**  
 - ⚡ Fun fact: **I can lead a team and inspire collaboration!**  
