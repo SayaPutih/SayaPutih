@@ -4,11 +4,11 @@
 ---
 
 ### 🛠 About Me
-- 🔭 I’m currently working on **Mobile Application**  
-- 🌱 I’m currently learning **Mobile Application**  
+- 🔭 I’m currently working on ****  
+- 🌱 I’m currently learning ****  
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SayaPutih)  
 - 📫 How to reach me: **nikolaibenevander@gmail.com**  
-- ⚡ Fun fact: **I can lead a team and inspire collaboration!**  
+- ⚡ Fun fact: ****  
 
 ---
 
