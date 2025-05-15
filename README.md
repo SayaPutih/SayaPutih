@@ -6,6 +6,3 @@
 - 🌱 I’m currently learning **LM Studio**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SayaPutih)  
 - 📫 How to reach me: **nikolaibenevander@gmail.com**
-  
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SayaPutih&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
