@@ -3,7 +3,7 @@
 
 ### 🛠 About Me
 - 🔭 I’m currently working on **React Mobile Application**
-- - 🌱 I’m currently learning **LM Studio**
+- 🌱 I’m currently learning **LM Studio**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/SayaPutih)  
 - 📫 How to reach me: **nikolaibenevander@gmail.com**
   
