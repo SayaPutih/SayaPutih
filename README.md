@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Evander Nikolai</h1>
 <h3 align="center">6th Semester Student | Aspiring Full-Stack Developer</h3>
 
+- 🔭 I’m currently working on **React Mobile Applications**
+- 🌱 I’m currently learning **LM Studio**
 <!--### 🛠 About Me
 - 🔭 I’m currently working on **React Mobile Application**
 - 🌱 I’m currently learning **LM Studio**
